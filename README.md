@@ -1,6 +1,6 @@
 # Vessel Performance Analysis and Prediction
 
-This project analyzes vessel performance data using various data analysis techniques, including data cleaning, feature engineering, visualization, linear regression, and neural networks. This file "" contains the raw data, try.ipyb is the python file for all the procedd done and final_processed_data contains the cleaned data.
+This project analyzes vessel performance data using various data analysis techniques, including data cleaning, feature engineering, visualization, linear regression, and neural networks. This file "vesselPerformance-Sample.json" contains the raw data, try.ipyb is the python file for all the procedd done and final_processed_data contains the cleaned data.
 
 ## Table of Contents
 
